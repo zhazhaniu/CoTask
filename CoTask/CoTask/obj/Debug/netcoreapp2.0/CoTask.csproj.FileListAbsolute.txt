@@ -1,0 +1,11 @@
+H:\visualStudio\CoTask\CoTask\CoTask\bin\Debug\netcoreapp2.0\CoTask.deps.json
+H:\visualStudio\CoTask\CoTask\CoTask\bin\Debug\netcoreapp2.0\CoTask.runtimeconfig.json
+H:\visualStudio\CoTask\CoTask\CoTask\bin\Debug\netcoreapp2.0\CoTask.runtimeconfig.dev.json
+H:\visualStudio\CoTask\CoTask\CoTask\bin\Debug\netcoreapp2.0\CoTask.dll
+H:\visualStudio\CoTask\CoTask\CoTask\bin\Debug\netcoreapp2.0\CoTask.pdb
+H:\visualStudio\CoTask\CoTask\CoTask\obj\Debug\netcoreapp2.0\CoTask.csprojResolveAssemblyReference.cache
+H:\visualStudio\CoTask\CoTask\CoTask\obj\Debug\netcoreapp2.0\CoTask.csproj.CoreCompileInputs.cache
+H:\visualStudio\CoTask\CoTask\CoTask\obj\Debug\netcoreapp2.0\CoTask.AssemblyInfoInputs.cache
+H:\visualStudio\CoTask\CoTask\CoTask\obj\Debug\netcoreapp2.0\CoTask.AssemblyInfo.cs
+H:\visualStudio\CoTask\CoTask\CoTask\obj\Debug\netcoreapp2.0\CoTask.dll
+H:\visualStudio\CoTask\CoTask\CoTask\obj\Debug\netcoreapp2.0\CoTask.pdb

@@ -1,0 +1,1 @@
+# CoTask#### IntroduceIn C#, Task<T> does not support Covariance and Contravariant, I make a proxy to achieve this feature. It just a demo code of this way.#### About the projectThis is a Visual Studio 2017 project base on .net core 2.0#### UsageSee Program.cs
